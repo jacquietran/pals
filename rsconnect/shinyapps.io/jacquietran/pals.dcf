@@ -1,0 +1,13 @@
+name: pals
+title: pals
+username:
+account: jacquietran
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4675111
+bundleId: 5042568
+url: https://jacquietran.shinyapps.io/pals/
+when: 1631873973.11931
+lastSyncTime: 1631873973.11931
+asMultiple: FALSE
+asStatic: FALSE
